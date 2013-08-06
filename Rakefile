@@ -1,12 +1,11 @@
 #encoding: utf-8
-desc 'Start simple monitor for words: arg - words filename'
+desc 'Start words monitor: rake run arg1:words.file arg2:threads.num[=8]'
 task :run do
 	ARGV.shift
-	puts 'ARGS: %s'%ARGV.join(', ')
-	load 'simple.rb'
+	load 'simple-mt.rb'
 end
 
-
+desc 'Extract tags from redis store. MapReduce would be better(mongo?)'
 task :tags do
 	require 'redis'
 	require 'json'
@@ -28,19 +27,13 @@ task :tags do
 end
 
 
-task :try_mapreduce do
+task :feed2mongo do
 	$LOAD_PATH << "."
 	require 'vk-newsfeed.rb'
 	require 'mongo'
 	m=Mongo::MongoClient.new
 	feed = VKFeed.new
-	puts feed.query('aliens').inspect
-	# - receiving some responses
-
-	# - saving everything in mongo as a docs
-
-	# - run map reduce with updates for tops collections
-	
+	puts feed.query('brazzers').inspect
 end
 
 

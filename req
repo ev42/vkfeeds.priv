@@ -1,0 +1,86 @@
+POST /dev HTTP/1.1
+Host: vk.com
+Connection: keep-alive
+Content-Length: 154
+Origin: http://vk.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.162 Safari/535.19
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Referer: http://vk.com/dev/newsfeed.search?q=fuck
+Accept-Encoding: deflate,sdch
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Accept-Charset: utf-8;q=0.3
+Cookie: remixlang=0; remixstid=915283759; remixdt=0; remixmid=; remixgid=; remixemail=; remixpass=; remixpermit=; remixsslsid=; remixtst=5ab950d2; remixrec_sid=; remixsid=7a8c33ea2f83f81964307cc1d78193605252884c2dd38719678af; audio_vol=100; remixreg_sid=; remixapi_sid=; remixsid6=1a5a028593fd535cc4fcaaffbcfcdf20e185f0166117198ea7d6ea8b127b9; remixrefkey=abd9292f625be6f9e6; remixflash=11.2.202; remixseenads=1
+
+act=a_run_method&al=1&hash=1375716810%3A88c50a0c7f4d17e446&method=newsfeed.search&param_count=30&param_q=ложь&param_v=5.0&param_count=200&param_offset=000
+
+
+POST /dev HTTP/1.1
+Host: vk.com
+Connection: keep-alive
+Content-Length: 154
+Origin: http://vk.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.162 Safari/535.19
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Referer: http://vk.com/dev/newsfeed.search?q=fuck
+Accept-Encoding: deflate,sdch
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Accept-Charset: utf-8;q=0.3
+Cookie: remixlang=0; remixstid=915283759; remixdt=0; remixmid=; remixgid=; remixemail=; remixpass=; remixpermit=; remixsslsid=; remixtst=5ab950d2; remixrec_sid=; remixsid=7a8c33ea2f83f81964307cc1d78193605252884c2dd38719678af; audio_vol=100; remixreg_sid=; remixapi_sid=; remixsid6=1a5a028593fd535cc4fcaaffbcfcdf20e185f0166117198ea7d6ea8b127b9; remixrefkey=abd9292f625be6f9e6; remixflash=11.2.202; remixseenads=1
+
+act=a_run_method&al=1&hash=1375716810%3A88c50a0c7f4d17e446&method=newsfeed.search&param_count=30&param_q=ложь&param_v=5.0&param_count=200&param_offset=200
+
+POST /dev HTTP/1.1
+Host: vk.com
+Connection: keep-alive
+Content-Length: 154
+Origin: http://vk.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.162 Safari/535.19
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Referer: http://vk.com/dev/newsfeed.search?q=fuck
+Accept-Encoding: deflate,sdch
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Accept-Charset: utf-8;q=0.3
+Cookie: remixlang=0; remixstid=915283759; remixdt=0; remixmid=; remixgid=; remixemail=; remixpass=; remixpermit=; remixsslsid=; remixtst=5ab950d2; remixrec_sid=; remixsid=7a8c33ea2f83f81964307cc1d78193605252884c2dd38719678af; audio_vol=100; remixreg_sid=; remixapi_sid=; remixsid6=1a5a028593fd535cc4fcaaffbcfcdf20e185f0166117198ea7d6ea8b127b9; remixrefkey=abd9292f625be6f9e6; remixflash=11.2.202; remixseenads=1
+
+act=a_run_method&al=1&hash=1375716810%3A88c50a0c7f4d17e446&method=newsfeed.search&param_count=30&param_q=ложь&param_v=5.0&param_count=200&param_offset=400
+
+POST /dev HTTP/1.1
+Host: vk.com
+Connection: keep-alive
+Content-Length: 154
+Origin: http://vk.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.162 Safari/535.19
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Referer: http://vk.com/dev/newsfeed.search?q=fuck
+Accept-Encoding: deflate,sdch
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Accept-Charset: utf-8;q=0.3
+Cookie: remixlang=0; remixstid=915283759; remixdt=0; remixmid=; remixgid=; remixemail=; remixpass=; remixpermit=; remixsslsid=; remixtst=5ab950d2; remixrec_sid=; remixsid=7a8c33ea2f83f81964307cc1d78193605252884c2dd38719678af; audio_vol=100; remixreg_sid=; remixapi_sid=; remixsid6=1a5a028593fd535cc4fcaaffbcfcdf20e185f0166117198ea7d6ea8b127b9; remixrefkey=abd9292f625be6f9e6; remixflash=11.2.202; remixseenads=1
+
+act=a_run_method&al=1&hash=1375716810%3A88c50a0c7f4d17e446&method=newsfeed.search&param_count=30&param_q=ложь&param_v=5.0&param_count=200&param_offset=600
+
+POST /dev HTTP/1.1
+Host: vk.com
+Connection: keep-alive
+Content-Length: 154
+Origin: http://vk.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.162 Safari/535.19
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Referer: http://vk.com/dev/newsfeed.search?q=fuck
+Accept-Encoding: deflate,sdch
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Accept-Charset: utf-8;q=0.3
+Cookie: remixlang=0; remixstid=915283759; remixdt=0; remixmid=; remixgid=; remixemail=; remixpass=; remixpermit=; remixsslsid=; remixtst=5ab950d2; remixrec_sid=; remixsid=7a8c33ea2f83f81964307cc1d78193605252884c2dd38719678af; audio_vol=100; remixreg_sid=; remixapi_sid=; remixsid6=1a5a028593fd535cc4fcaaffbcfcdf20e185f0166117198ea7d6ea8b127b9; remixrefkey=abd9292f625be6f9e6; remixflash=11.2.202; remixseenads=1
+
+act=a_run_method&al=1&hash=1375716810%3A88c50a0c7f4d17e446&method=newsfeed.search&param_count=30&param_q=ложь&param_v=5.0&param_count=200&param_offset=800
+
